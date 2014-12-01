@@ -1,0 +1,11 @@
+target: 'http://www.zocko.com'
+list:
+    url: '?p=page&querystring_key=p'
+    product_id: '#products > li'
+    pages: 1
+detail:
+    url: 'bg/product/product_id'
+    title: '#product_detail > div.half.pl10.fl.full > div.hide-for-small > h2'
+    desc: '#product_detail > div.half.pl10.fl.full > div.hide-for-small > div.description-prod > p'
+    link: '#copy_to_clipboard'
+    picture: '#product_detail > div.hide-for-small > div > div.picture > a'
