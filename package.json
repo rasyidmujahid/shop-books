@@ -1,0 +1,14 @@
+{
+    "author": "rasyidmujahid",
+    "dependencies": {
+        "request": "latest",
+        "cheerio": "latest",
+        "async": "latest",
+        "util": "latest",
+        "js-yaml": "latest",
+        "fs": "latest"
+    },
+    "description": "Zocko scraper",
+    "name": "ZockoScraper",
+    "version": "1.0.0"
+}
